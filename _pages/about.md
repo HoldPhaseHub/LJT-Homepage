@@ -25,8 +25,8 @@ My research focuses on natural language processing and machine learning. My rese
 ## Research Experience
 
 - **Research Intern**, MINIMAX, February 2025 - Present
-- **Research Intern**, Tencent WXG, June 2024 - September 2024
-- **Research Intern**, Shanghai AI Lab, June 2023 - December 2023
+- **Research Intern**, Tencent WXG, June 2024 - September 2024, advised by Zifei Shan
+- **Research Intern**, Shanghai AI Lab, June 2023 - December 2023, advised by Prof. Yu Cheng
 
 ## Publications
 
